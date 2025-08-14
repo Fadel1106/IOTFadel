@@ -4,7 +4,7 @@ Tingkat Pemula (Basic)
 
     Program "Hello World" 1
 
-    Menghitung luas lingkaran
+    Menghitung luas lingkaran 1
 
     Konversi suhu (Celsius ke Fahrenheit, dll.)
 
