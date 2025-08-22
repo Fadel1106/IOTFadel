@@ -6,21 +6,21 @@ Tingkat Pemula (Basic)
 
     Menghitung luas lingkaran 1
 
-    Konversi suhu (Celsius ke Fahrenheit, dll.)
+    Konversi suhu (Celsius ke Fahrenheit, dll.) 1
 
-    Menentukan bilangan ganjil/genap
+    Menentukan bilangan ganjil/genap 1
 
-    Menghitung faktorial
+    Menghitung faktorial 1
 
-    Menentukan tahun kabisat
+    Menentukan tahun kabisat 1
 
-    Menampilkan deret Fibonacci
+    Menampilkan deret Fibonacci 1
 
-    Kalkulator sederhana (+,-,*,/)
+    Kalkulator sederhana (+,-,*,/) 1
 
-    Menentukan bilangan prima
+    Menentukan bilangan prima 1
 
-    Mencari nilai terbesar dari 3 angka
+    Mencari nilai terbesar dari 3 angka 
 
 Array & String
 
