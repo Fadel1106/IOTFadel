@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Generate configure script
+      run: autoreconf --install
     - uses: actions/checkout@v4
     - name: configure
       run: ./configure
