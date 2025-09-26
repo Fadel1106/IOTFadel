@@ -1,6 +1,4 @@
-# #IOTFadel
-
----
+# #100 Program sederhana C++---
 
 ## 🔹 Tingkat Pemula (Basic)
 1. Program "Hello World"  
