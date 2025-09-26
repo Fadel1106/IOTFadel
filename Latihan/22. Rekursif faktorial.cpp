@@ -1,12 +1,11 @@
 #include <iostream>
 using namespace std;
 
-// Fungsi rekursif untuk menghitung faktorial
 int faktorial(int n) {
     if (n == 0 || n == 1) {
-        return 1; // Basis rekursi
+        return 1;
     } else {
-        return n * faktorial(n - 1); // Pemanggilan rekursif
+        return n * faktorial(n - 1);
     }
 }
 
@@ -20,6 +19,5 @@ int main() {
     } else {
         cout << "Faktorial dari " << angka << " adalah: " << faktorial(angka) << endl;
     }
-
     return 0;
 }
