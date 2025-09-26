@@ -16,6 +16,5 @@ int main() {
     cout << "Masukkan bilangan pangkat: ";
     cin >> b;
     cout << a << " ^ " << b << " = " << hitungPangkat(a, b) << endl;
-
     return 0;
 }
