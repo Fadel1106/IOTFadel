@@ -9,7 +9,6 @@ int luas(int panjang, int lebar) {
     return panjang * lebar;
 }
 
-// Fungsi luas untuk lingkaran
 double luas(double jari) {
     return 3.14 * jari * jari;
 }
